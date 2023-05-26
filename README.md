@@ -8,7 +8,7 @@
 <section>
   <div>
     <br>
-    <img align="left" height="400" width="600"src="https://github.com/JapaScripter/Project_Send_Email/blob/main/assets/Send_Email.png" />
+    <img align="left" height="400" width="500"src="https://github.com/JapaScripter/Project_Send_Email/blob/main/assets/Send_Email.png" />
     <h3 align="justify">"Este projeto tem o intuito de enviar mensagens pelo email."</h3>
     <br>
     <h3 align="justify">"The function from this project is send messages from email"</h3>
